@@ -1,0 +1,12 @@
+/* Write your code here. */
+.thumb-nail {
+  display: flex;
+}
+.button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.blur {
+  opacity: 0.5;
+}

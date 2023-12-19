@@ -1,0 +1,18 @@
+/* Write your code here. */
+.app-container {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-top: 30px;
+}
+.image {
+  height: 500px;
+  width: 100%;
+}
+.thumb-container {
+  display: flex;
+  padding-left: 0px;
+  gap: 10px;
+}
